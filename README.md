@@ -5,8 +5,7 @@ This will replace the original image names and the annotations.json so you need 
 To use this go to your terminal and type:
 
 ```python
-
 python3 renamer.py [draganddropyourimagepath/images/] [draganddropyourannotationfile/annotations.json]
-
-
 ```
+
+Credits: GK and ChatGPT4o
