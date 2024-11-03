@@ -1,4 +1,4 @@
-outputs/images/*
-!outputs/images/
-kitkat_dataset/images/*
-!kitkat_dataset/images/
+# outputs/images/*
+# !outputs/images/
+# kitkat_dataset/images/*
+# !kitkat_dataset/images/
