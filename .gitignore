@@ -1,2 +1,2 @@
-outputs/images/*
-kitkat_dataset/images/*
+outputs/images/*.*
+kitkat_dataset/images/*.*
